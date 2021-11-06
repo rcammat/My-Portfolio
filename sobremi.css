@@ -18,7 +18,7 @@ body {
         font-size: 1.75em !important;
      }
      .div-img{
-        width: 80vh !important;
+        width: 50vh !important;
         margin-left:auto !important;
         margin-right: auto !important; 
         padding-right: 0 !important;
@@ -32,7 +32,7 @@ body {
         font-size: 1.25em !important;
      }
      .div-img {
-        width: 60vh !important;
+        width: 30vh !important;
         margin-left:auto !important;
         margin-right: auto !important; 
      }
@@ -45,7 +45,7 @@ body {
         padding-left: 2em!important;
      }
      .div-img{
-         width: 40vh !important;
+         width: 30vh !important;
          margin-left:auto !important;
          margin-right: auto !important;
      }
