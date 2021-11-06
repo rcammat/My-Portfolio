@@ -1,0 +1,36 @@
+body{
+    background-color: #363636 !important;
+}
+a{
+    text-decoration: none !important;
+}
+form {
+    flex-direction: column;
+}
+h1{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.col-xl-12{
+    margin-top: 3rem !important;
+}
+.bg-rojo {
+    background-color: #DC2F2F !important;
+}
+@media (max-height:1100px) {
+    h1{
+        padding-top: 2.5rem;
+        padding-bottom: 1.5rem;
+    }
+    .col-xl-12{
+
+        margin-top: 2rem !important;
+    }
+    
+}
+@media (max-width: 768px) {
+    h1{
+        padding-bottom: 0;
+    }
+}

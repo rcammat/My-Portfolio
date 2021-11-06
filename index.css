@@ -1,0 +1,10 @@
+.fondo{
+    background: url(./fondo.png);
+    height: 80vh;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
