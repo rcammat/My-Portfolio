@@ -10,7 +10,10 @@ body {
 .div-img{
     padding-right: 5em !important;
 }
-@media (max-width: 1400px){
+footer{
+    position: inherit !important;
+}
+@media (max-width: 1440px){
     .div-texto{
         padding-left: 0 !important;
         margin-top: 2em !important;
@@ -22,9 +25,7 @@ body {
         margin-right: auto !important; 
         padding-right: 0 !important;
      }
-     footer{
-         position: inherit !important;
-     }
+     
 }
 @media (max-width: 800px){
     .div-texto{
